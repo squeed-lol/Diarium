@@ -8,5 +8,15 @@
     "cwd": "$ZED_WORKTREE_ROOT",
     "env": {},
     "program": "\"$ZED_FILE\""
+  },
+  {
+    "adapter": "Debugpy",
+    "label": "run '/home/brandon/Projects/Diarium/src/diarium/__init__.py'",
+    "request": "launch",
+    "python": "$ZED_CUSTOM_PYTHON_ACTIVE_ZED_TOOLCHAIN",
+    "args": [],
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "env": {},
+    "program": "\"$ZED_FILE\""
   }
 ]
